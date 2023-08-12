@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://strikeofblood178.github.io/Contribution_Graph.",
   "scripts": {
+    "homepage": "https://strikeofblood178.github.io/Contribution_Graph.",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
